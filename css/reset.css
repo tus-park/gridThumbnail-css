@@ -1,0 +1,18 @@
+@charset "UTF-8";
+
+/* reset */
+html, body{width:100%; font-size:10px; box-sizing: border-box; margin:0; padding:0; color:#333; }
+* {margin:0; padding:0; box-sizing: border-box; -webkit-text-size-adjust:none; list-style:none; text-decoration:none; font-size:1.6rem;
+  font-family: 'Spoqa Han Sans', 'Spoqa Han Sans JP', 'Sans-serif', '맑은 고딕',MalgunGothic,'새굴림','New Gulim','돋움',Dotum,AppleGothic,Arial,sans-serif;}
+input,textarea,select,button,.aBtn{ margin-right:-4px; vertical-align: middle; border:none;}
+table,thead,tbody,tfoot,tr,th,td{border:none; border-spacing:0; border-collapse: collapse;}
+h1,h2,h3,h4,h5,h6{font-weight:normal;font-size:100%;font-family: '맑은 고딕',MalgunGothic,'새굴림','New Gulim';}
+ul,ol{list-style:none}
+span{color: inherit;}
+fieldset,img{border:0; vertical-align:top;}
+i,em,address{font-style:normal;font-weight:normal;}
+a{color:inherit;text-decoration:none;outline:0;}
+a:hover,a:active,a:focus{text-decoration:none;outline:0;}
+legend,hr,caption {display:block; overflow:hidden; position:absolute; top:0; left:-1000em;}
+strong, span, a, b, em, i, cite{font-size: inherit}
+/* reset END */
